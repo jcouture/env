@@ -1,10 +1,8 @@
-`env`
-
 # Overview
 
 `env` is a tiny library designed to simplify interactions with the environment in which your application runs. It provides an easy-to-use API for fetching environment variables, setting them, and performing various other environment-related tasks.
 
-It exists mainly to support functionality of `nv`.
+It exists mainly to support functionality of [`nv`](https://github.com/jcouture/nv).
 
 # Installation
 
@@ -18,7 +16,7 @@ It exists mainly to support functionality of `nv`.
 - Check if an environment variable exists
 - Retrieve all environment variables
 - Set environment variables dynamically
-  And more!
+- And more!
 
 # Usage
 
